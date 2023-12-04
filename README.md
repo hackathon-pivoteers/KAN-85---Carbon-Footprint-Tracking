@@ -98,4 +98,39 @@ We would like to acknowledge the following resources that helped us during the d
 
 This project is licensed under the [MIT License](LICENSE.txt). Please see the [License File](LICENSE.txt) for more information.
 
-For any questions or inquiries, please contact [team@carbonfootprinttracking.com](mailto:team@carbonfootprinttracking.com).
+For any questions or inquiries, please contact [team@carbonfootprinttracking.com](mailto:team@carbonfootprinttracking.com). 
+
+## JIRA KAN-86 Update
+<p><strong>Carbon Footprint Calculation Engine:</strong></p>
+<p><strong>Objective:</strong> Develop a robust engine to accurately calculate carbon emissions based on input data and emission factors.</p>
+<p><strong>Code Implementation:</strong></p>
+<ol>
+<li><strong>Algorithm Design:</strong> Design precise algorithms for carbon emission calculations considering energy consumption, transportation, and waste generation.</li>
+<li><strong>Emission Factors Database Integration:</strong> Integrate the engine with the Emission Factors Database to retrieve relevant factors for different activities.</li>
+<li><strong>Data Input Processing:</strong> Implement mechanisms to process and validate input data from various sources, accounting for missing or inaccurate data.</li>
+<li><strong>Calculation Logic Implementation:</strong> Implement core logic using separate functions to calculate emissions based on energy consumption, transportation, and waste generation.</li>
+</ol>
+<p><strong>Stakeholders:</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Stakeholder</th>
+<th style="text-align:center">Role/Responsibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Ioana</td>
+<td style="text-align:center">Engine Developer</td>
+</tr>
+<tr>
+<td style="text-align:center">Hakan</td>
+<td style="text-align:center">Emission Factors Database Manager</td>
+</tr>
+<tr>
+<td style="text-align:center">Pavel</td>
+<td style="text-align:center">Country Director</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Conclusion:</strong> The Carbon Footprint Calculation Engine enables accurate quantification of carbon emissions by utilizing algorithms, data processing, database integration, and calculation logic. The involvement of stakeholders such as Ioana, Hakan, and Pavel contributes to the successful development and implementation of the engine.</p>
