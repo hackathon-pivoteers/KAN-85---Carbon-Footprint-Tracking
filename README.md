@@ -133,4 +133,15 @@ For any questions or inquiries, please contact [team@carbonfootprinttracking.com
 </tr>
 </tbody>
 </table>
-<p><strong>Conclusion:</strong> The Carbon Footprint Calculation Engine enables accurate quantification of carbon emissions by utilizing algorithms, data processing, database integration, and calculation logic. The involvement of stakeholders such as Ioana, Hakan, and Pavel contributes to the successful development and implementation of the engine.</p>
+<p><strong>Conclusion:</strong> The Carbon Footprint Calculation Engine enables accurate quantification of carbon emissions by utilizing algorithms, data processing, database integration, and calculation logic. The involvement of stakeholders such as Ioana, Hakan, and Pavel contributes to the successful development and implementation of the engine.</p> 
+
+## JIRA KAN-86 Update
+<h2>Carbon Emissions Calculation Engine</h2>
+<p>The Carbon Emissions Calculation Engine is a robust feature within the Carbon Footprint Tracking system. It enables the quantification of carbon emissions based on collected data and emission factors. The following sub-tasks were completed:</p>
+<ul>
+<li>Algorithm Design: Designed algorithms to calculate carbon emissions considering factors such as energy consumption, transportation, and waste generation</li>
+<li>Emission Factors Database Integration: Integrated the calculation engine with the Emission Factors Database to retrieve relevant emission factors</li>
+<li>Data Input Processing: Implemented mechanisms to process and validate data inputs from multiple sources, addressing missing or inaccurate data through error-handling mechanisms</li>
+<li>Calculation Logic Implementation: Developed the core logic for accurately and reliably calculating carbon emissions based on the algorithms and input data, along with thorough testing</li>
+</ul>
+<p>Hakan is a developer.</p>
